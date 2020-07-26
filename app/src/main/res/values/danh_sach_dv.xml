@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="dichvu">
+        <item>Vàng cây</item>
+        <item>Vàng chỉ</item>
+        <item>Vàng dát mỏng</item>
+        <item>Vàng nguyên chất</item>
+    </string-array>
+</resources>
